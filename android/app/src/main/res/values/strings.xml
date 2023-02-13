@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Been</string>
+    <string name="facebook_app_id">780205867029095</string>
+    <string name="fb_login_protocol_scheme">fb780205867029095</string>
+    <string name="facebook_client_token">0293c0c2b3515b45e3b3ff4cca3a4a83</string>
+</resources>
